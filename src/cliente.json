@@ -1,0 +1,37 @@
+{
+  "nombreApp": "Tours Demo",
+  "nombreCorto": "Tours",
+  "descripcion": "Tours por Nicaragua",
+  "ciudad": "Managua",
+  "correoAdmin": "correo-del-dueno@gmail.com",
+  "colorPrincipal": "#1f4e8c",
+  "colorAcento": "#2e7d5b",
+  "colorFondo": "#eef6fa",
+  "plan": "spark",
+  "loginEnHosting": false,
+  "tipo": "tours",
+  "textos": {
+    "servicio": "tour",
+    "servicios": "tours",
+    "servicioFemenino": false,
+    "salida": "salida",
+    "salidas": "salidas",
+    "salidaFemenino": true,
+    "persona": "pasajero",
+    "personas": "pasajeros",
+    "personaFemenino": false,
+    "guia": "guía"
+  },
+  "modulos": ["reservas", "pagos", "pasajeros", "costos"],
+  "venta": {
+    "moneda": "C$",
+    "anticipoPct": 50,
+    "horasParaPagar": 48
+  },
+  "firebase": {
+    "projectId": "id-del-proyecto",
+    "apiKey": "",
+    "appId": "",
+    "messagingSenderId": ""
+  }
+}
